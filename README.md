@@ -7,10 +7,10 @@
 # Hey there :wave:, I'm Bart, it's a pleasure to meet you!
 
 ### A few things about me
-- I am frontend web developer doing all things creative to make the web a more unique and awesome place.
-- Basketball, music, football and art are my happy places 
+- I am a front-end web developer.
+- Basketball, music, football, and art are my happy places 
 - I enjoy bringing a static design or idea to life and learning new technologies.
-- Skilled in creating responsive designs, UI Design, HTML Emails and ReactJS.
+- Skilled in creating responsive designs, UI Design, and ReactJS.
 
 <br>
 
@@ -34,7 +34,7 @@
 
 ---
 
-## Have a project you want to collaborate on or you just want to chat? You can contact me through either method below:
+## Have a project you want to collaborate on or do you just want to chat? You can contact me through either method below:
 <div id="badges" align="center">
   <br><br>
   <a href="https://www.linkedin.com/">
