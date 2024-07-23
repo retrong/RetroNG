@@ -7,10 +7,12 @@
 # Hey there :wave:, I'm Bart, it's a pleasure to meet you!
 
 ### A few things about me
-- I am a front-end web developer.
-- Basketball, music, football, and art are my happy places 
+- I am a software developer.
+- Basketball, music, football, and art are my happy place 
 - I enjoy bringing a static design or idea to life and learning new technologies.
-- Skilled in creating responsive designs, UI Design, and ReactJS.
+- Skilled in creating responsive designs, UI Design, working with ReactJS, NextJS and Vue.
+- API Integration and Creating RESTFUL API
+- Building with C++ :seedling:
 
 <br>
 
