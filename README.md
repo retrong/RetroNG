@@ -12,7 +12,7 @@
 - I enjoy bringing a static design or idea to life and learning new technologies.
 - Skilled in creating responsive designs, UI Design, working with ReactJS, NextJS and Vue.
 - API Integration and Creating RESTFUL API
-- Building with C++ :seedling:
+- Building with C# :seedling:
 
 <br>
 
